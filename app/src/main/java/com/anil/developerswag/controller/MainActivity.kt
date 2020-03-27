@@ -1,7 +1,8 @@
-package com.anil.developerswag
+package com.anil.developerswag.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.anil.developerswag.R
 
 class MainActivity : AppCompatActivity() {
 
